@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/Edugon0/Project-automation-TCC-app.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/Edugon0/Project-automation-TCC-infra.git
