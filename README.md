@@ -187,4 +187,4 @@ Execute a pipeline `terraform.yaml` com `destroy = true` para evitar cobranças.
 ## 👨‍💻 Autor
 
 Eduardo — Ciência da Computação | IFPA  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/Edugon0)
+[LinkedIn](www.linkedin.com/in/eduardov-goncalves) · [GitHub](https://github.com/Edugon0)
